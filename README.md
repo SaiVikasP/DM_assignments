@@ -19,7 +19,7 @@
 
 *The data is will be accessed directly from Google Cloud Storage (GCS) location through the KaggleDatasets tool. So, Kaggle is recommended to run the files.*
 
-*Join the competition [https://www.kaggle.com/competitions/tpu-getting-started](https://www.kaggle.com/competitions/llm-detect-ai-generated-text) to get your score.*
+*Join the competition https://www.kaggle.com/competitions/llm-detect-ai-generated-text to get your score.*
 
 *Run all cells and save the version to get a submission file.*
 
